@@ -1,1 +1,7 @@
 cherry
+<<<<<<< HEAD
+=======
+ONE
+two
+three
+>>>>>>> 293e3e1 (fourth)
