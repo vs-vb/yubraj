@@ -4,4 +4,8 @@ cherry
 ONE
 two
 three
+<<<<<<< HEAD
 >>>>>>> 293e3e1 (fourth)
+=======
+four
+>>>>>>> 12a1193 (fifth)
